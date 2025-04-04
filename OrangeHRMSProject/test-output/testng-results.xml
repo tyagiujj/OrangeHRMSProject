@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-04T16:17:51 IST" name="Suite" finished-at="2025-04-04T16:18:02 IST" duration-ms="11125">
+    <groups>
+    </groups>
+    <test started-at="2025-04-04T16:17:51 IST" name="Test" finished-at="2025-04-04T16:18:02 IST" duration-ms="11125">
+      <class name="testCases.TC_002AddEmployeeTestCases">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002AddEmployeeTestCases@5b67bb7e]" started-at="2025-04-04T16:17:51 IST" name="setup" finished-at="2025-04-04T16:17:56 IST" duration-ms="4790" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginPage()[pri:0, instance:testCases.TC_002AddEmployeeTestCases@5b67bb7e]" started-at="2025-04-04T16:17:56 IST" name="LoginPage" finished-at="2025-04-04T16:17:56 IST" duration-ms="741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method signature="NavigateToAddEmployeePage()[pri:1, instance:testCases.TC_002AddEmployeeTestCases@5b67bb7e]" started-at="2025-04-04T16:17:56 IST" name="NavigateToAddEmployeePage" finished-at="2025-04-04T16:17:59 IST" duration-ms="2792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToAddEmployeePage -->
+        <test-method signature="AddEmployee()[pri:2, instance:testCases.TC_002AddEmployeeTestCases@5b67bb7e]" started-at="2025-04-04T16:17:59 IST" name="AddEmployee" finished-at="2025-04-04T16:18:01 IST" duration-ms="2331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployee -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:testCases.TC_002AddEmployeeTestCases@5b67bb7e]" started-at="2025-04-04T16:18:01 IST" name="TearDown" finished-at="2025-04-04T16:18:02 IST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002AddEmployeeTestCases@5b67bb7e]" started-at="2025-04-04T16:18:02 IST" name="tearDown" finished-at="2025-04-04T16:18:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002AddEmployeeTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
