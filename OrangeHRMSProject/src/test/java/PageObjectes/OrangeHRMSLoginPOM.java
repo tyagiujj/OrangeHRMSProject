@@ -10,7 +10,7 @@ public class OrangeHRMSLoginPOM extends BasePage {
         super(driver);
     }
 
-    @FindBy(xpath = "//input[@placeholder='Username']")
+    @FindBy(xpath = "//inpu[@placeholder='Username']")
     WebElement Username;
 
     @FindBy(xpath = "//input[@placeholder='Password']")
