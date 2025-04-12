@@ -8,7 +8,7 @@ This project automates key functionalities of the [OrangeHRM](https://opensource
 - 🤖 **Automation Tool**: Selenium WebDriver
 - ✅ **Test Framework**: TestNG
 - 🌐 **Browser**: Chrome, Edge, Firefox
-- ⚙️ **Build Tool**: Maven (if used)
+- ⚙️ **Build Tool**: Maven
 - 📋 **Test Data**: Hardcoded or from Excel/Propertie
 
 ## 📂 Folder Structure
